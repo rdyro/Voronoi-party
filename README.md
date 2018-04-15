@@ -22,3 +22,5 @@ perturbed slightly.
 This is nothing more than a visually appealing experiment with GPU computations
 in JavaScript. Maybe teaching it in JavaScript is better than directly with
 CUDA or OpenCL? Certainly quicker development time.
+
+![diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/512px-Euclidean_Voronoi_diagram.svg.png "Voronoi Diagram from Wikipedia")
